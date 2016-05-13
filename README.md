@@ -1,2 +1,2 @@
 # Helloworld
-Hello world
+This repository is our first Github repository.
